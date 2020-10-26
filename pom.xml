@@ -9,7 +9,7 @@
     </properties>
 
     <groupId>com.abbasi</groupId>
-    <artifactId>spring-inversion-of-controll-config-file</artifactId>
+    <artifactId>spring-inversion-of-control-xml-configuration</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
